@@ -1,5 +1,5 @@
 """
-A program that asks for 5 numbers and tells the user a few basic facts about the numbers
+A program that asks for 5 numbers and tells the user a few basic facts about the numberss
 """
 
 def main():
